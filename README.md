@@ -1,4 +1,4 @@
-![Header](./gh.png)
+![Header](<https://github.com/YAKM0/YAKM0/blob/main/gh.png>)
 <!--
 **YAKM0/YAKM0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
